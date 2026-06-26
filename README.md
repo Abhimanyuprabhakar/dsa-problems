@@ -7,6 +7,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 The problems are categorized by the following topics:
 
 - Arrays
+- Binary Search
 - Strings
 - Linked Lists
 - Stacks
